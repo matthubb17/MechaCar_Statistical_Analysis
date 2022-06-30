@@ -26,8 +26,12 @@ The figure above shows the summary of the linerar regression for the MecaCar mgp
 
 
 ## Summary Statistics on Suspension Coils:
+
+Total Summary:
 ![Deliverable 2.1](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%202.1.png)
 
+
+Lot_Summary:
 ![Deliverable 2.2](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%202.2.png)
 
 *	The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
