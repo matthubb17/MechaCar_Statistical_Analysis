@@ -58,6 +58,10 @@ T-test for Lot 3:
 ![Deliverable 3.4](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.4.png)
 *	The p-value for Lot 3 is 0.042 This is considered statistically significant as it is belove the common significance level of 0.05. This lot needs to be looked at more closely as it does not appear to meet quality standards.
 
+## Study Design: MechaCar vs Competition:
 
-
-
+*	Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+	*	What metric or metrics are you going to test?
+	*	What is the null hypothesis or alternative hypothesis?
+	*	What statistical test would you use to test the hypothesis? And why?
+	*	What data is needed to run the statistical test?
