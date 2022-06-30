@@ -62,6 +62,10 @@ T-test for Lot 3:
 
 *	Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 	*	What metric or metrics are you going to test?
+		*	One way to compare against competition would be to take a look at both the safety rating and the horse power in order to determine how safe MechaCar is vs other competitor vehicles.
 	*	What is the null hypothesis or alternative hypothesis?
+		*	The null hypothesis would be that the mean of the safety rating is zero. The alternative hypothesis would be that the mean of the safety rating is not zero.
 	*	What statistical test would you use to test the hypothesis? And why?
+		*	I would probably look into running a multiple linear regression summary to show how the variousl variables impact the safety ratings of MechaCar vs other vehicles.
 	*	What data is needed to run the statistical test?
+		*	I would need a sample for both MechaCar along with a competitor or a set of competitors depending on what you wanted to compare to. This dataset would need both safety ratings and the horse power.
