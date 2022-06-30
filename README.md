@@ -18,6 +18,7 @@ The goal of this project was to use R to build a statistical analysis of MechaCa
 The figure above shows the summary of the linerar regression for the MecaCar mgp.
 
 *	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+	*	When taking a look at the variables/coefficients. The vehicle length and the vehicle ground clearance are most likely to provide non-random amounts of variance to the mpg values in the dataset. Conversely, the vehicle weight, spoiler angle, and the AWD indicate a random amount of variance due to the p-values.  
 *	Is the slope of the linear model considered to be zero? Why or why not?
 	*	The slope would be condidered as zero since it is a very small decimal.  
 *	Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
