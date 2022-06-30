@@ -44,19 +44,19 @@ Lot_Summary:
 
 T-test for All Lots:
 ![Deliverable 3.1](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.1.png)
-*	Insert text
+*	We can see that the p-value for all lots is 0.06 (> than the common significance level of 0.05). The mean of all lots is statistically similar to the population mean of 1500.
 
 T-test for Lot 1:
 ![Deliverable 3.2](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.2.png)
-*	Insert text
+*	The p-value for Lot 1 is 1. This is not considered statistically significant. Lot 1 is reflective of the population mean.
 
 T-test for Lot 2:
 ![Deliverable 3.3](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.3.png)
-*	Insert text
+*	The p-value for Lot 2 is 0.61. This is not considered statistically significant. Lot 2 is reflective of the population mean.
 
 T-test for Lot 3:
 ![Deliverable 3.4](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.4.png)
-*	Insert text
+*	The p-value for Lot 3 is 0.042 This is considered statistically significant as it is belove the common significance level of 0.05. This lot needs to be looked at more closely as it does not appear to meet quality standards.
 
 
 
