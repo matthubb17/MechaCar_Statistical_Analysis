@@ -29,10 +29,10 @@ The figure above shows the summary of the linerar regression for the MecaCar mgp
 
 
 ## T-tests on Suspension Coils:
-![Deliverable 3.1](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%303.1.png)
+![Deliverable 3.1](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.1.png)
 
-![Deliverable 3.2](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%303.2.png)
+![Deliverable 3.2](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.2.png)
 
-![Deliverable 3.3](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%303.3.png)
+![Deliverable 3.3](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.3.png)
 
-![Deliverable 3.4](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%303.4.png)
+![Deliverable 3.4](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.4.png)
