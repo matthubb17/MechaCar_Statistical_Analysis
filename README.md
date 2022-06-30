@@ -41,10 +41,15 @@ Lot_Summary:
 
 
 ## T-tests on Suspension Coils:
+
+T-test for All Lots:
 ![Deliverable 3.1](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.1.png)
 
+T-test for Lot 1:
 ![Deliverable 3.2](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.2.png)
 
+T-test for Lot 2:
 ![Deliverable 3.3](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.3.png)
 
+T-test for Lot 3:
 ![Deliverable 3.4](https://github.com/matthubb17/MechaCar_Statistical_Analysis/blob/main/Module%2015_Deliverable%203.4.png)
