@@ -19,7 +19,9 @@ The figure above shows the summary of the linerar regression for the MecaCar mgp
 
 *	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 *	Is the slope of the linear model considered to be zero? Why or why not?
+  *	The slope would be condidered as zero since it is a very small decimal.  
 *	Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  * The linear model has a r^2 value of 0.7149. This means that roughly 71% of all mpg predictions will be determined by this model. In summation, this model does predict mpg of MechaCar prototypes effectively. 
 
 
 ## Summary Statistics on Suspension Coils:
